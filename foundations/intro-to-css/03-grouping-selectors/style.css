@@ -1,0 +1,12 @@
+.clickbox1{
+    background-color: black;
+    color: white;
+}
+.clickbox2{
+    background-color: yellow;
+}
+.clickbox1,
+.clickbox2{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman',sans-serif,;
+}
